@@ -30,7 +30,7 @@ In this lab, you will learn how to create, configure, and manage a Windows-based
    
 3. From the left pane click **Launch instance** to begin the process of creating a virtual machine.
 
-![My Image](/../../media/Lab01/01.png)
+![My Image](/media/Lab01/01.png)
    
 4. In the **Name and tags** section, enter a name for your instance: `MyWindowsInstance`.
   
