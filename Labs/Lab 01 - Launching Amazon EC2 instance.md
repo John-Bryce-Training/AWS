@@ -74,7 +74,7 @@ In this lab, you will learn how to create, configure, and manage a Windows-based
 
 5. Click on the **Security** tab and than choose the Security group name.
 
-![My Image](media/Lab01/02.png)
+![My Image](/media/Lab01/02.png)
 
 6. At the table click on **Edit inbound rules** and than select **Add rule**.
 
