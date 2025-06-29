@@ -39,7 +39,7 @@ In this lab, you will learn how to create, configure, and manage IAM users and g
 
 8. Uner **Console password** choose **Custom password** and type: `LabStudent123!`.
 
-![My Image](media/Lab02/01.png)
+![My Image](/media/Lab02/01.png)
 
 9. Uncheck the **Users must create a new password at next sign-in - Recommended** and than select **Next**. This is the name of the new user.
 
@@ -61,7 +61,7 @@ In this lab, you will learn how to create, configure, and manage IAM users and g
 
 5. Check the box next to **AmazonEC2ReadOnlyAccess** — This policy allows viewing (but not changing) EC2-related settings and resources.
 
-![My Image](media/Lab02/02.png)
+![My Image](/media/Lab02/02.png)
 
 6. Click **Next** (skip tags).
 
